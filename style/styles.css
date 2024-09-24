@@ -33,7 +33,7 @@ body {
     min-width: 320px;
     border-radius: 15px;
     padding: 6.67px;
-    background-color: rgba(40, 40, 40, 0.8); /* %C5%9Eeffaf arka plan */}
+    background-color: rgba(40, 40, 40, 0.9);
 
 .avatar {
     margin-top: 33.33px;
@@ -58,7 +58,7 @@ img {
 }
 
 .logos {
-    background: transparent;
+    background-color: rgba(40, 40, 40, 0.9);
     border-radius: 33.33px;
     width: fit-content;
     height: 33.33px;
