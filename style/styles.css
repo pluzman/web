@@ -29,9 +29,9 @@ body {
 .inner {
     margin-left: auto;
     margin-right: auto;
-    width: 33.33%;
+    width: 15%;
     min-width: 320px;
-    border-radius: 16.67px;
+    border-radius: 15px;
     padding: 6.67px;
     background-color: rgba(255, 255, 255, 0.1); /* %C5%9Eeffaf arka plan */}
 
@@ -58,7 +58,7 @@ img {
 }
 
 .logos {
-    background: transparent;
+    background-color: rgba(255, 255, 255, 0.1); /* %C5%9Eeffaf arka plan */}
     border-radius: 33.33px;
     width: fit-content;
     height: 33.33px;
