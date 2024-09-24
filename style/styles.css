@@ -1,6 +1,6 @@
 body {
     color: white;
-    background-color: black;
+    background-color: rgba(40, 40, 40, 0.8); /* %C5%9Eeffaf arka plan */}
     font-size: 33.33px;
     font-family: Arial;
     margin: 33.33px;
